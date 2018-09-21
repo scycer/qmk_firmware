@@ -38,4 +38,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_SAT_STEP 8
 #define RGBLIGHT_VAL_STEP 8
 
+#define RGBLIGHT_EFFECT_BREATHE_CENTER 1  // 1-2.7
+#define RGBLIGHT_EFFECT_BREATHE_MAX 255   // 0-255
+
 #endif
